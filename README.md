@@ -2,9 +2,12 @@
 
 <h1 align="center">Hey there 👋, I'm Gurukant Pradip Patil</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=700&background=000000&lines=%24+Full+Stack+Engineer;🎨+Creative+Frontend+Developer;🤖+AI+%26+ML+Enthusiast" alt="Typing SVG" />
-</p>
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=700&background=000000&lines=$+Full+Stack+Engineer;🎨+Creative+Frontend+Developer;🤖+AI+%26+ML+Enthusiast)
+
+</div>
+
 
 
 ---
