@@ -65,7 +65,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gurukantpatil&show_icons=true&theme=radical" height="160" />
+<img src="https://streak-stats.demolab.com?user=GurukantPatil01&theme=radical" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurukantpatil&layout=compact&theme=radical" height="160" />
 </p>
 
