@@ -2,7 +2,9 @@
 
 <h1 align="center">Hey there 👋, I'm Gurukant Pradip Patil</h1>
 
-<h3 align="center">🚀 Full Stack Engineer | 🎨 Creative Frontend Developer | 🤖 AI & ML Enthusiast</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Full+Stack+Engineer;🎨+Creative+Frontend+Developer;🤖+AI+%26+ML+Enthusiast" alt="Typing SVG" />
+</p>
 
 ---
 
