@@ -66,7 +66,7 @@
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=GurukantPatil01&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurukantpatil&layout=compact&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GurukantPatil01&layout=compact&theme=radical" height="160" />
 </p>
 
 ---
